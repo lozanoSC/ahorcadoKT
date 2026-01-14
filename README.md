@@ -31,6 +31,8 @@ Si el usuario adivina la palabra “gana”. Establecemos un número fallos perm
 
 Puedes hacer una primera versión sin música ni dibujo para centrarte en la lógica y una vez que la acabes le añades la capacidad de reproducir una canción e ir dibujando el ahorcado.
 
+Puedes utilizar el midi que quieras, en este proyecto se te facilita uno
+
 
 ## REQUISITOS
 Se entrega proyecto que contiene código y un video de ejecución EN CONSOLA.   
