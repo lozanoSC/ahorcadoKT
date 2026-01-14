@@ -4,7 +4,9 @@
 ![Alt text](images/image.png)
 
 
-Objetivo: comprobar la interoperabilidad  kotlin/java
+Objetivos:
+- comprobar la interoperabilidad  kotlin/java
+- ejecutar una aplicación desde el terminal, es decir,  podemos usar el IDE como siempre, pero una vez acabada, queremos ser capaces de poder ejecutarla en el terminal sin necesidad del IDE.
 
 
 Queremos hacer un aplicación en Kotlin pero disponemos de código java ya escrito que queremos reutilizar directamente:
@@ -31,7 +33,7 @@ Puedes hacer una primera versión sin música ni dibujo para centrarte en la ló
 
 
 ## REQUISITOS
-Se entrega proyecto que contiene código y un video de ejecución EN CONSOLA.  
+Se entrega proyecto que contiene código y un video de ejecución EN CONSOLA.   
 
 
 ## VIDEO
